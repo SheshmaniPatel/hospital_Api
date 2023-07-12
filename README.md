@@ -6,7 +6,7 @@ The API is built using Node.js and MongoDB, and uses JSON Web Tokens (JWT) for a
 ## Installation
 
 To install and run the application, follow the steps below:
-1. Clone the repository - `git clone https://github.com/gknanhe/hospital-api.git`
+1. Clone the repository - `git clone https://github.com/SheshmaniPatel/hospital-api.git`
 2. Navigate to the project directory: `cd cn-hospital-api`
 3. Install the dependencies - `npm install`
 4. Create a `.env` file in the root directory with the following environment variables: -
@@ -81,7 +81,7 @@ We welcome contributions from the community! If you would like to contribute to 
 
 ## Author
 
-[Ganesh K Nanhe](https://github.com/gknanhe/hospital-api)
+[SheshmaniPatel](https://github.com/SheshmaniPatel/hospital-api)
 
 ## License
 
@@ -89,4 +89,4 @@ This project is licensed under the ISC License.
 
 ## Bugs/Issues
 
-If you encounter any bugs or issues while using the app, please report them [here](https://github.com/gknanhe/hospital-api/issues).
+If you encounter any bugs or issues while using the app, please report them [here](https://github.com/SheshmaniPatel/hospital-api/issues).
