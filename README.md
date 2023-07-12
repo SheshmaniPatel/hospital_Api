@@ -81,7 +81,7 @@ We welcome contributions from the community! If you would like to contribute to 
 
 ## Author
 
-[SheshmaniPatel](https://github.com/SheshmaniPatel/hospital-api)
+[Sheshmani Patel](https://github.com/SheshmaniPatel/hospital-api)
 
 ## License
 
