@@ -89,4 +89,4 @@ This project is licensed under the ISC License.
 
 ## Bugs/Issues
 
-If you encounter any bugs or issues while using the app, please report them [here](https://github.com/gknanhe/hospital-api/issues).
+If you encounter any bugs or issues while using the app, please report them [here](https://github.com/SheshmaniPatel/hospital-Api/issues).
